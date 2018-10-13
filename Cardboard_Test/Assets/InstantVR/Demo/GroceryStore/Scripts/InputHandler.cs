@@ -1,10 +1,5 @@
 ﻿/* InstantVR Input Handler
- * author: Pascal Serrarens
- * email: support@passervr.com
- * version: 3.8.3
- * date: July 2, 2017
- * 
- * - Fixed rotation speed
+
  */
 
 using UnityEngine;
